@@ -36,3 +36,17 @@ informados pelo usuário. Com o intuito de realizar esse cálculo,
 crie uma função que receba um array com uma quantidade
 indeterminada de números e retorne a média simples desses
 números.
+
+7.Crie um programa que ajuda a decidir se uma pessoa deve pagar impostos com base em sua renda. Peça ao usuário para inserir sua renda anual e determine se ele/ela deve pagar impostos (por exemplo, se a renda for maior que um determinado valor).
+
+8.A fim de manter o calendário anual ajustado com o movimento de translação da Terra, criou-se os anos bissextos, que têm 366 dias em vez dos 365 presentes nos anos normais. Para determinar se um ano é bissexto, é necessário saber se ele é múltiplo de 4. Não pode ser múltiplo de 100, exceto se for também múltiplo de 400.
+Com isso em mente, desenvolva uma função que recebe um número correspondente a um ano e retorna se ele é bissexto ou não.
+
+9.Desenvolva um programa que determina se um aluno foi aprovado em uma disciplina com base em sua nota. Peça ao usuário para inserir sua nota e defina um limite de aprovação. Em seguida, exiba uma mensagem indicando se o aluno foi aprovado ou reprovado.
+
+10.Criar uma função para calcular a porcentagem de um número  
+
+11.Criar uma função que converta uma temperatura de Celsius para Fahrenheit.
+
+12.Crie uma função que calcule a raiz quadrada de um número e retorne um número inteiro como resultado.
+
