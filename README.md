@@ -50,3 +50,34 @@ Com isso em mente, desenvolva uma função que recebe um número correspondente 
 
 12.Crie uma função que calcule a raiz quadrada de um número e retorne um número inteiro como resultado.
 
+13-Faça um programa que leia um número entre 0 e 10, e escreva este número por extenso. Use o comando switch. Crie um case default que escreva ‘Número fora do intervalo.’
+
+14-Escreva uma função que receba dois parâmetros início e fim. Essa função deve imprimir todos os números ímpares que estão entre esses valores. Por padrão os valores devem ser 0 para início e 100 para fim. Atente para corrigir a ordem dos parâmetros caso a função receba o valor maior antes do menor.
+
+15- Fazer um programa para encontrar todos os pares entre 1 e 100.
+
+16- Criar um programa para identificar o valor a ser pago por um plano de saúde dada a idade do conveniado considerando que todos pagam R$ 100 mais um adicional conforme a seguinte tabela: 1) crianças com menos de 10 anos pagam R$80; 2) conveniados com idade entre 10 e 30 anos pagam R$50; 3) conveniados com idade acima de 30 e até 60 anos pagam R$ 95; e 4) conveniados acima de 60 anos pagam R$130.
+
+17-Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma estrutura de repetição while.
+
+
+18-O cardápio de uma lanchonete é o seguinte:
+Código Descrição do Produto Preço
+100 Cachorro Quente R$ 3,00
+200 Hambúrguer Simples R$ 4,00
+300 Cheeseburguer R$ 5,50
+400 Bauru R$ 7,50
+500 Refrigerante R$ 3,50
+600 Suco R$ 2,80
+Implemente uma função que receba como parâmetros o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item. Use o comando switch. Crie um caso default para produto não existente.
+
+19-Elabore duas funções que recebem três parâmetros: capital inicial, taxa de juros e tempo de aplicação. A primeira função retornará o montante da aplicação financeira sob o regime de juros simples e a segunda retornará o valor da aplicação sob o regime de juros compostos.
+
+20-Crie uma função que recebe dois parâmetros, base e expoente, e retorne a base elevada ao expoente.
+
+21-Escrever um programa para exibir os números de 1 até 50 na tela.
+22-Crie uma função que verifica se um número inteiro passado como parâmetro é divisível por 3 e retorne true ou false.
+
+23-Construa uma função para um sistema de notas de uma instituição que possui a seguinte política de classificação: Todo aluno recebe uma nota de 0 a 100. Alunos com nota abaixo de 40 são reprovados. As notas possuem a seguinte regra de arredondamento: Se a diferença entre a nota e o próximo múltiplo de 5 for menor que 3, arredondar a nota para esse próximo múltiplo de 5. Se a nota for abaixo de 38, não é feito nenhum arredondamento pois esta nota resulta na reprovação do aluno. Por exemplo, a nota 84 será arredondada para 85, mas a nota 29 não será arredondada por ser abaixo de 40 e não ser possível arredondamento eficiente, ou seja, que evite a reprovação do aluno. No caso de a nota ser 38, o arredondamento é possível pois atingirá 40 e o aluno será aprovado.
+
+
